@@ -17,6 +17,6 @@ Week 1, lecture 2 - Detailed description
 *******************
 
 ### PS :
-> - we'll check if your content is valid and you're updating it every week atleast **TWICE**. 
+> - We'll check if your content is valid and you're updating it every week atleast **TWICE**. 
 > - We won't be evaluating timely updates on week 1 readme file but you are supposed to write it as well.
 > - Plagiarism may lead to heavy consequences.
